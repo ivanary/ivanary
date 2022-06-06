@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Home
+- 🌱 I’m currently learning Rust
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ivanary.ivanary" alt="visitor badge"/> 
+
+![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=ivanary&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanary&hide=html&exclude_repo=python_vim)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ivanary&theme=flat&column=10&margin-w=10)](https://github.com/ivanary)
+
